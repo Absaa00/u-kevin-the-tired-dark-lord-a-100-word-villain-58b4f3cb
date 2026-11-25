@@ -1,0 +1,12 @@
+# Dark-lord build ignores — monologue entry, November 2026
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.log
+.DS_Store
+Thumbs.db
+/output/
+*.tmp
+*.bak
